@@ -1,7 +1,6 @@
 # PWD TENDER MANAGEMENT SYSTEM
 
 ## Installation
-
 ```
 Clone project repo and place the separately provided env file in the server folder.
 
